@@ -1,6 +1,8 @@
 # dotfiles with  MACOS
 
-The script dotfile change and add files;`.bash_aliases`,`.bash_profile`,`.bash_prompt`,`.bashrc`,`.gitconfig`,`.exports`.
+The script dotfile change and add files;
+
+`.bash_aliases`,`.bash_profile`,`.bash_prompt`,`.bashrc`,`.gitconfig`,`.exports`.
 
 **Warnings** Don’t blindly use my settings unless you know what that entails.
 
@@ -25,10 +27,10 @@ To update you MacOS, `cd` into your local `dotfiles` repository and then:
 source bootstrap.sh
 ```
 
-## Configuration ⚙️
+## Configuration and private configuration ⚙️
 
 Change in `.gitconfig`:
 ```bash
 [user]
-    name = ADDYOURNAME
+    name = YOURGITHUBNAME
 ```
